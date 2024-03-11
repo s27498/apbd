@@ -15,3 +15,4 @@ static double GetAvg(int[] arr)
 
     return sum / arr.Length;
 }
+Console.WriteLine("This is a modification");
